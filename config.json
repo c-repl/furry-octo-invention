@@ -1,0 +1,13 @@
+{
+  "clean-mushy-hydrogen": {
+    "mediumId": "sms",
+    "target": {
+      "phone": "+91123123"
+    },
+    "message": "Hi there",
+    "cronString": "* * * * * *",
+    "id": "clean-mushy-hydrogen",
+    "instance": 1,
+    "status": "scheduled"
+  }
+}

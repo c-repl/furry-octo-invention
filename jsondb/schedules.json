@@ -1,0 +1,20 @@
+{
+  "big-salmon-psychiatrist": {
+    "mediumId": "sms",
+    "userId": "able-short-lawyer",
+    "message": "Hi there",
+    "cronString": "* * * * * *",
+    "id": "big-salmon-psychiatrist",
+    "instance": 1,
+    "status": "scheduled"
+  },
+  "billowy-rapping-football": {
+    "mediumId": "sms",
+    "target": "able-short-lawyr",
+    "message": "Hi there",
+    "cronString": "* * * * * *",
+    "id": "billowy-rapping-football",
+    "instance": 2,
+    "status": "scheduled"
+  }
+}
